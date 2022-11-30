@@ -1,0 +1,11 @@
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  color: blue;
+  background-color: rgb(197, 159, 234);
+}
+p {
+  background-color: rgb(180, 178, 178);
+  border: #b14b6d solid 5px;
+}
